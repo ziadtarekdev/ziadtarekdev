@@ -1,105 +1,59 @@
 <div align="center">
 
-# ✦ ZIAD TAREK
-
-### `FLUTTER DEVELOPER`
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+modern+mobile+experiences;Flutter+%2B+Dart+%2B+Firebase;Clean+UI+%E2%80%A2+Clean+Code+%E2%80%A2+Better+Apps;Always+learning.+Always+building." alt="Typing Animation" />
-
 <br>
 
+# ZIAD TAREK
+
+### FLUTTER DEVELOPER
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Flutter+%2B+Dart;Mobile+App+Developer;Building+clean+digital+experiences;Always+learning+%E2%80%A2+Always+building" alt="Animated typing text"/>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github&theme=dark" alt="Flutter Dart Firebase Git GitHub"/>
+
+<br><br>
+
 <a href="https://github.com/ziadtarekdev">
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-FFFFFF?style=flat-square&logo=github&logoColor=0D1117" alt="GitHub"/>
+</a>
+
+ 
+
+<a href="mailto:YOUR_EMAIL">
+  <img src="https://img.shields.io/badge/Contact-FFFFFF?style=flat-square&logo=gmail&logoColor=EA4335" alt="Email"/>
 </a>
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,vscode&theme=dark" alt="Tech Stack"/>
-
 </div>
-
----
-
-## `01` — ABOUT
-
-```text
-I'm Ziad, a Computer Science student and Flutter Developer.
-
-I enjoy turning ideas into clean, responsive and
-user-focused mobile applications.
-
-Currently focused on improving my Flutter skills,
-software architecture and building better products.
-```
-
----
-
-## `02` — WHAT I USE
 
 <div align="center">
 
-|    Mobile   |     Backend    |  Tools  |
-| :---------: | :------------: | :-----: |
-|   Flutter   |    Firebase    |   Git   |
-|     Dart    |    REST APIs   |  GitHub |
-| Material UI | Authentication | VS Code |
+`Flutter`  ·  `Dart`  ·  `Firebase`  ·  `REST APIs`  ·  `Git`
 
 </div>
-
----
-
-## `03` — CURRENT FOCUS
-
-```text
-┌─────────────────────────────────────────────────────────┐
-│                                                         │
-│   📱  Flutter Development                               │
-│       └─ Building responsive cross-platform apps       │
-│                                                         │
-│   🧩  App Architecture                                 │
-│       └─ Learning scalable & maintainable structures   │
-│                                                         │
-│   🔥  Firebase                                          │
-│       └─ Authentication • Database • Backend Services  │
-│                                                         │
-│   🎨  UI / UX                                           │
-│       └─ Creating clean and intuitive interfaces       │
-│                                                         │
-└─────────────────────────────────────────────────────────┘
-```
-
----
-
-## `04` — GITHUB
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ziadtarekdev&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=8B5CF6&include_all_commits=true" alt="GitHub Stats"/>
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziadtarekdev&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages"/>
-
-</div>
-
----
-
-## `05` — CONTRIBUTIONS
-
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=ziadtarekdev&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=8B5CF6&currStreakLabel=58A6FF" alt="GitHub Streak"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=4000&pause=1500&color=8B949E&center=true&vCenter=true&width=500&lines=Code.+Build.+Ship.;Turning+ideas+into+mobile+experiences.;One+commit+at+a+time." alt="Animated quote"/>
 
 </div>
-
----
-
-<div align="center">
-
-### `BUILD • LEARN • IMPROVE`
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3500&pause=1200&color=8B949E&center=true&vCenter=true&width=550&lines=One+line+of+code+at+a+time.;Turning+ideas+into+experiences.;See+you+in+the+next+commit+%F0%9F%91%8B" alt="Closing Animation"/>
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ziadtarekdev&show_icons=true&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=8B949E&icon_color=8B5CF6&hide=issues,prs" alt="GitHub Stats"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<sub>© Ziad Tarek</sub>
 
 </div>
