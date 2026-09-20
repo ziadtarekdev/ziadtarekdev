@@ -2,58 +2,51 @@
 
 <br>
 
-# ZIAD TAREK
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=13&duration=2800&pause=1200&color=64748B&center=true&vCenter=true&width=500&lines=%5B+PLAYER+PROFILE+%2F%2F+01+%5D;%5B+SYSTEM+ONLINE+%5D;%5B+WELCOME%2C+DEVELOPER+%5D" alt="System Animation"/>
 
-### FLUTTER DEVELOPER
+# `ZIAD TAREK`
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Flutter+%2B+Dart;Mobile+App+Developer;Building+clean+digital+experiences;Always+learning+%E2%80%A2+Always+building" alt="Animated typing text"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=650&lines=FLUTTER+DEVELOPER;MOBILE+APP+DEVELOPER;DART+ENTHUSIAST;BUILDING+DIGITAL+EXPERIENCES" alt="Developer Animation"/>
+
+<br>
+
+```text
+╭──────────────────────────────────────────────────────────╮
+│                                                          │
+│   PLAYER          ZIAD TAREK                             │
+│   CLASS           FLUTTER DEVELOPER                     │
+│   STATUS          ● ONLINE / BUILDING                   │
+│                                                          │
+│   ────────────────────────────────────────────────────   │
+│                                                          │
+│   SKILLS                                                │
+│                                                          │
+│   Flutter   ████████████████████░░░                     │
+│   Dart      ███████████████████░░░░                     │
+│   Firebase  █████████████████░░░░░                     │
+│   Git       ████████████████████░░░                     │
+│                                                          │
+╰──────────────────────────────────────────────────────────╯
+```
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,vscode&theme=dark" alt="Tech Stack"/>
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github&theme=dark" alt="Flutter Dart Firebase Git GitHub"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3500&pause=1000&color=8B949E&center=true&vCenter=true&width=600&lines=CODE+%E2%80%A2+BUILD+%E2%80%A2+SHIP;LEVELING+UP+EVERY+DAY;NEXT+MISSION%3A+BUILD+SOMETHING+GREAT" alt="Mission Animation"/>
 
 <br><br>
 
 <a href="https://github.com/ziadtarekdev">
-  <img src="https://img.shields.io/badge/GitHub-FFFFFF?style=flat-square&logo=github&logoColor=0D1117" alt="GitHub"/>
-</a>
-
- 
-
-<a href="mailto:YOUR_EMAIL">
-  <img src="https://img.shields.io/badge/Contact-FFFFFF?style=flat-square&logo=gmail&logoColor=EA4335" alt="Email"/>
+<img src="https://img.shields.io/badge/%E2%96%B6_ENTER_GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF" alt="Enter GitHub"/>
 </a>
 
 <br><br>
 
-</div>
+<sub>PLAYER ID: ZT_DEV • STATUS: ACTIVE</sub>
 
-<div align="center">
-
-`Flutter`  ·  `Dart`  ·  `Firebase`  ·  `REST APIs`  ·  `Git`
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=4000&pause=1500&color=8B949E&center=true&vCenter=true&width=500&lines=Code.+Build.+Ship.;Turning+ideas+into+mobile+experiences.;One+commit+at+a+time." alt="Animated quote"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ziadtarekdev&show_icons=true&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=8B949E&icon_color=8B5CF6&hide=issues,prs" alt="GitHub Stats"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<sub>© Ziad Tarek</sub>
+<br><br>
 
 </div>
