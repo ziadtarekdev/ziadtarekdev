@@ -1,126 +1,89 @@
-# 👾 Ziad Tarek
-
-```text
-╔══════════════════════════════════════════════╗
-║        ⚡ FLUTTER DEVELOPER                 ║
-║        🎮 CODE • BUILD • LEVEL UP           ║
-╚══════════════════════════════════════════════╝
-```
+<div align="center">
+  <img src="./assets/header.svg" alt="Hi, I’m Ziad. Flutter developer building mobile apps with clean UI." width="100%">
+</div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Flutter+Developer;Computer+Science+Student;Building+Apps+That+Matter;Always+Learning+%F0%9F%9A%80" />
+  <a href="https://www.upwork.com/freelancers/YOUR_UPWORK_ID"><img alt="Upwork" src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:YOUR_EMAIL"><img alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
----
+## About me
 
-## 🎮 PLAYER PROFILE
+I’m a Flutter developer. I build mobile apps from the UI down: layouts, state management, Firebase and REST APIs.
 
-```yaml
-Player: Ziad Tarek
-Class: Flutter Developer
-Education: Computer Science
-Current Quest: Building real-world applications
-Main Weapon: Dart + Flutter
-Power-Up: Firebase
-Status: ███████████████░░░ 80% → Learning
-```
+- 🛠️ I work in Android Studio
+- 🌍 I speak English and Arabic
+- 💼 Open to freelance Flutter projects
 
----
-
-## 🛠️ LOADOUT
-
-### 💙 Mobile Development
+## Tech
 
 <p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase" />
+  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+  <img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
+  <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black">
+  <img alt="Provider" src="https://img.shields.io/badge/Provider-state-0175C2?style=for-the-badge">
+  <img alt="Bloc and Cubit" src="https://img.shields.io/badge/Bloc%20%2F%20Cubit-state-0175C2?style=for-the-badge">
+  <img alt="REST APIs" src="https://img.shields.io/badge/REST-APIs-555555?style=for-the-badge">
+  <img alt="Android Studio" src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white">
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </p>
 
-### 💻 Programming
+## Featured projects
 
-<p>
-  <img src="https://skillicons.dev/icons?i=cpp,java,python,js" />
-</p>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📰 News App</h3>
+      Headlines by category and by source, debounced search, and light and dark themes.<br><br>
+      <sub><b>Flutter · MVVM · Provider · Cubit</b></sub><br><br>
+      <a href="https://claude.ai/artifact/3Gyceh8sw6vMtAbiPSv3GT">Case study</a> · <a href="https://github.com/YOUR_USERNAME/YOUR_NEWS_APP_REPO">Code</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎟️ Evently</h3>
+      An events app: sign in, browse by category, save favorites, and add or edit your own events.<br><br>
+      <sub><b>Flutter · Firebase</b></sub><br><br>
+      <a href="https://claude.ai/artifact/2PxrhuCS7Qw3bmxDt6oWzh">Case study</a> · <a href="https://github.com/YOUR_USERNAME/YOUR_EVENTLY_REPO">Code</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏋️ GYMATE</h3>
+      An AI-powered gym machine recognition app for beginners, with Arabic (RTL) support.<br><br>
+      <sub><b>Flutter</b></sub><br><br>
+      <a href="https://github.com/YOUR_USERNAME/YOUR_GYMATE_REPO">Code</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🕌 IslamiApp</h3>
+      Quran, Hadith, prayer times and radio in one app.<br><br>
+      <sub><b>Flutter</b></sub><br><br>
+      <a href="https://github.com/YOUR_USERNAME/YOUR_ISLAMI_REPO">Code</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎬 Movie App</h3>
+      A movie browsing app with a grid layout, Material 3 and a multi-page onboarding flow.<br><br>
+      <sub><b>Flutter</b></sub><br><br>
+      <a href="https://github.com/YOUR_USERNAME/YOUR_MOVIE_REPO">Code</a>
+    </td>
+    <td width="50%" valign="top"></td>
+  </tr>
+</table>
 
-### 🌐 Web
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js" />
-</p>
-
-### ⚙️ Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,figma" />
-</p>
-
----
-
-## 🚀 CURRENT MISSION
-
-```text
-[████████████████████] Flutter
-[████████████████░░░░] Dart
-[███████████████░░░░░] Firebase
-[████████████░░░░░░░░] Clean Architecture
-[███████████░░░░░░░░░] Advanced Flutter
-```
-
-> Building. Breaking. Fixing. Learning. Repeating. 🔁
-
----
-
-## 🧩 PROJECTS
-
-| Project             | Description                                               |
-| ------------------- | --------------------------------------------------------- |
-| 📱 **CloseBy**      | QR-based child safety & identification system             |
-| 🎬 **Movies App**   | Flutter movie application with authentication & modern UI |
-| 📚 **Islami App**   | Islamic application built with Flutter                    |
-| 🎯 **StudyTracker** | Web-based study tracking application                      |
-
----
-
-## 📊 PLAYER STATS
+## GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ziadmagdy109&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ziadmagdy109&theme=tokyonight&hide_border=true" height="165"/>
+  <img height="180" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117">
+  <img height="180" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117">
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziadmagdy109&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+## Contribution snake
 
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg">
+  <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg">
+</picture>
 
-## 🏆 ACHIEVEMENTS
-
-```text
-🏅 ECPC Qualification
-🏅 ECPC Finalist
-📱 Flutter Development
-🔥 Firebase
-💻 Computer Science
-```
-
----
-
-## 🎯 NEXT LEVEL
-
-```text
-→ Master Flutter Architecture
-→ Build production-ready applications
-→ Improve problem solving
-→ Learn advanced backend integration
-→ Ship more projects 🚀
-```
-
----
-
-<p align="center">
-
-### ⚡ KEEP CODING. KEEP LEVELING UP. ⚡
-
-<img src="https://komarev.com/ghpvc/?username=ziadmagdy109&style=for-the-badge&color=blueviolet" />
-
-</p>
+<img src="./assets/footer.svg" alt="" width="100%">
