@@ -1,160 +1,105 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,50:172554,100:4F46E5&text=ZIAD%20TAREK&fontSize=52&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=FLUTTER%20DEVELOPER&descSize=18&descAlignY=58&descColor=CBD5E1"/>
+# ✦ ZIAD TAREK
+
+### `FLUTTER DEVELOPER`
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+modern+mobile+experiences;Flutter+%2B+Dart+%2B+Firebase;Clean+UI+%E2%80%A2+Clean+Code+%E2%80%A2+Better+Apps;Always+learning.+Always+building." alt="Typing Animation" />
 
 <br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=60A5FA&center=true&vCenter=true&width=700&lines=Flutter+Developer+%F0%9F%93%B1;Building+Beautiful+Mobile+Experiences;Clean+Code+%E2%80%A2+Modern+UI+%E2%80%A2+Scalable+Apps;Always+Learning.+Always+Building." />
-
-<br><br>
 
 <a href="https://github.com/ziadtarekdev">
-<img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,vscode&theme=dark" alt="Tech Stack"/>
 
 </div>
-
-<br>
 
 ---
 
-<div align="center">
-
-## ✦ ABOUT ME
-
-</div>
+## `01` — ABOUT
 
 ```text
-┌──────────────────────────────────────────────────────────┐
-│                                                          │
-│  👨‍💻  Flutter Developer                                 │
-│                                                          │
-│  🎓  Computer Science Student                           │
-│                                                          │
-│  📱  Mobile Application Development                     │
-│                                                          │
-│  🚀  Turning ideas into clean digital experiences        │
-│                                                          │
-└──────────────────────────────────────────────────────────┘
+I'm Ziad, a Computer Science student and Flutter Developer.
+
+I enjoy turning ideas into clean, responsive and
+user-focused mobile applications.
+
+Currently focused on improving my Flutter skills,
+software architecture and building better products.
 ```
 
-<br>
+---
+
+## `02` — WHAT I USE
 
 <div align="center">
 
-## ⚡ TECHNOLOGIES
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,cpp,git,github,vscode&theme=dark" />
-
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3500&pause=1000&color=94A3B8&center=true&vCenter=true&width=650&lines=Flutter+%7C+Dart+%7C+Firebase+%7C+REST+APIs;Git+%7C+GitHub+%7C+C%2B%2B+%7C+VS+Code" />
+|    Mobile   |     Backend    |  Tools  |
+| :---------: | :------------: | :-----: |
+|   Flutter   |    Firebase    |   Git   |
+|     Dart    |    REST APIs   |  GitHub |
+| Material UI | Authentication | VS Code |
 
 </div>
 
+---
+
+## `03` — CURRENT FOCUS
+
+```text
+┌─────────────────────────────────────────────────────────┐
+│                                                         │
+│   📱  Flutter Development                               │
+│       └─ Building responsive cross-platform apps       │
+│                                                         │
+│   🧩  App Architecture                                 │
+│       └─ Learning scalable & maintainable structures   │
+│                                                         │
+│   🔥  Firebase                                          │
+│       └─ Authentication • Database • Backend Services  │
+│                                                         │
+│   🎨  UI / UX                                           │
+│       └─ Creating clean and intuitive interfaces       │
+│                                                         │
+└─────────────────────────────────────────────────────────┘
+```
+
+---
+
+## `04` — GITHUB
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ziadtarekdev&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=8B5CF6&include_all_commits=true" alt="GitHub Stats"/>
+
 <br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziadtarekdev&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages"/>
+
+</div>
+
+---
+
+## `05` — CONTRIBUTIONS
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=ziadtarekdev&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=8B5CF6&currStreakLabel=58A6FF" alt="GitHub Streak"/>
+
+</div>
 
 ---
 
 <div align="center">
 
-## ◈ CURRENTLY
+### `BUILD • LEARN • IMPROVE`
 
 <br>
 
-<table>
-<tr>
-<td align="center" width="33%">
-
-### 📱
-
-**Flutter**
-
-Building modern
-cross-platform apps
-
-</td>
-
-<td align="center" width="33%">
-
-### 🧠
-
-**Learning**
-
-Architecture
-State Management
-
-</td>
-
-<td align="center" width="33%">
-
-### 🚀
-
-**Growing**
-
-Writing cleaner
-& scalable code
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<br>
-
----
-
-<div align="center">
-
-## 📊 GITHUB
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=ziadtarekdev&show_icons=true&hide_border=true&bg_color=00000000&title_color=60A5FA&text_color=94A3B8&icon_color=818CF8&rank_icon=github&include_all_commits=true"/>
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziadtarekdev&layout=compact&hide_border=true&bg_color=00000000&title_color=60A5FA&text_color=94A3B8"/>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=ziadtarekdev&hide_border=true&background=00000000&ring=60A5FA&fire=818CF8&currStreakLabel=60A5FA&sideLabels=94A3B8&dates=64748B"/>
-
-</div>
-
-<br>
-
----
-
-<div align="center">
-
-## ✦ ACTIVITY
-
-<br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ziadtarekdev&bg_color=00000000&color=60A5FA&line=4F46E5&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity"/>
-
-</div>
-
-<br>
-
----
-
-<div align="center">
-
-### 💙
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=4000&pause=1200&color=60A5FA&center=true&vCenter=true&width=700&lines=Code+with+purpose.;Build+with+passion.;Keep+learning.;Keep+shipping." />
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:4F46E5,50:172554,100:0F172A&section=footer"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3500&pause=1200&color=8B949E&center=true&vCenter=true&width=550&lines=One+line+of+code+at+a+time.;Turning+ideas+into+experiences.;See+you+in+the+next+commit+%F0%9F%91%8B" alt="Closing Animation"/>
 
 </div>
