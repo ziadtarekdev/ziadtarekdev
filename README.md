@@ -72,10 +72,7 @@ Status: ███████████████░░░ 80% → Learning
 
 ## 📊 PLAYER STATS
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ziadmagdy109&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ziadmagdy109&theme=tokyonight&hide_border=true" height="165"/>
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziadmagdy109&layout=compact&theme=tokyonight&hide_border=true" />
