@@ -16,7 +16,7 @@
 ## 🎮 PLAYER PROFILE
 
 ```yaml
-Player: Yaman
+Player: Ziad Tarek
 Class: Flutter Developer
 Education: Computer Science
 Current Quest: Building real-world applications
