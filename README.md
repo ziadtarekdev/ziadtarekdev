@@ -1,101 +1,60 @@
-# 👋 Hi, I'm Ziad Tarek
+<div align="center">
 
-### Flutter Developer 📱
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0175C2,100:7B61FF&height=200&section=header&text=Ziad%20Tarek&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
-I'm a Computer Science student passionate about building **clean, responsive, and user-friendly mobile applications** with Flutter & Dart.
+### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=0175C2&center=true&vCenter=true&width=500&lines=Flutter+Developer;Mobile+App+Developer;Computer+Science+Student;Always+Learning+%26+Building" />
 
-I enjoy turning ideas into real-world applications while continuously improving my skills in software architecture, state management, APIs, and Firebase.
+<br>
 
----
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,cpp&theme=dark" />
 
-## 🛠️ Tech Stack
-
-### Mobile Development
-
-<p>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-</p>
-
-### Backend & Tools
-
-<p>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
+</div>
 
 ---
 
-## 🚀 Featured Projects
+## 👨‍💻 About Me
 
-### 📖 Islami App
+I'm a **Flutter Developer** focused on building clean, responsive,
+and user-friendly mobile applications.
 
-An Islamic mobile application built with Flutter for reading the Quran, exploring Hadith, listening to Islamic radio, and tracking prayer times.
+Currently improving my skills in:
 
-**Tech:** Flutter • Dart
-
-🔗 [View Repository](https://github.com/ziadtarekdev/Islami-app)
-
----
-
-### 🎉 Evently
-
-A Flutter event-planning application focused on discovering and organizing events with a clean and simple user experience.
-
-**Tech:** Flutter • Dart
-
-🔗 [View Repository](https://github.com/ziadtarekdev/Evently_App)
+`Flutter` · `Dart` · `Firebase` · `REST APIs` · `State Management`
 
 ---
 
-### 🏋️ GYMATE
+## ⚡ Tech Stack
 
-A smart gym assistant designed to help users follow workout plans, track sets and reps, monitor progress, learn exercises, and identify gym machines using AI.
+<div align="center">
 
-**Tech:** Flutter • C++
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,cpp,vscode&theme=dark" />
 
-🔗 [View Repository](https://github.com/ziadtarekdev/gymate)
-
----
-
-### 📰 News App
-
-A Flutter application for browsing and reading news through a clean mobile interface.
-
-**Tech:** Flutter • Dart
-
-🔗 [View Repository](https://github.com/ziadtarekdev/News_App)
+</div>
 
 ---
 
-## 📊 GitHub Stats
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ziadtarekdev&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziadtarekdev&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+### 📊 GitHub Activity
 
----
+<img src="https://github-readme-stats.vercel.app/api?username=ziadtarekdev&show_icons=true&hide_border=true&theme=transparent&title_color=0175C2&text_color=8B949E&icon_color=0175C2&rank_icon=github"/>
 
-## 🔥 Contribution Streak
+<br><br>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ziadtarekdev&theme=tokyonight&hide_border=true"/>
-</p>
+<img src="https://streak-stats.demolab.com?user=ziadtarekdev&theme=transparent&hide_border=true&ring=0175C2&fire=7B61FF&currStreakLabel=0175C2"/>
+
+</div>
 
 ---
 
-## 🤝 Let's Connect
+<div align="center">
 
-<p>
-  <a href="https://github.com/ziadtarekdev">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+### 💭
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1500&color=8B949E&center=true&vCenter=true&width=600&lines=Code.+Learn.+Build.+Repeat.;Turning+ideas+into+mobile+experiences." />
 
-<p align="center">
-  <i>Building, learning, and improving — one app at a time.</i>
-</p>
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B61FF,100:0175C2&height=100&section=footer"/>
+
+</div>
